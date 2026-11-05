@@ -1,0 +1,5 @@
+streamlit>=1.40
+cryptography>=42
+opencv-python>=4.8
+numpy
+pandas
